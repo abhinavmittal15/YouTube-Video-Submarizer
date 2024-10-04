@@ -4,6 +4,8 @@
 - Clone the repository into your system.
 - Open the folder containing the repository files with VS Code.
 - If you don't already have python installed then please install python first before continuing
+- Make a file with name : .env
+- In .env file write : google_api_key = '//here you can paste your own google_api_key to run'
 - Open the terminal by pressing "Ctrl and `" if you are on windows.
 - Run this command in the terminal    : python3.11 -m venv venv
 - The run this command                : pip install -r requirement.txt
