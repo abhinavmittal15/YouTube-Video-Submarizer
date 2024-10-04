@@ -1,5 +1,14 @@
 # YouTube Video Summarizer
 
+
+**Example of this app working:**
+![alt text](assets/image.png)
+![alt text](assets/image2.png)
+![alt text](assets/image3.png)
+![alt text](assets/image4.png)
+![alt text](assets/image5.png)
+
+
 **How to run this in your system locally:**
 - Clone the repository into your system.
 - Open the folder containing the repository files with VS Code.
@@ -12,13 +21,6 @@
 - After that to run, use this command : streamlit run app.py
 - If the local URL is not automatically opened then paste this in your browser address bar : http://localhost:8501/
 - Now to try this, paste the link of any video that is in English in the box on the web page and You will see the submarized text. 
-
-**Example of this app working:**
-![alt text](assets/image.png)
-![alt text](assets/image2.png)
-![alt text](assets/image3.png)
-![alt text](assets/image4.png)
-![alt text](assets/image5.png)
 
 
 This tool is designed to help you save time by summarizing long YouTube videos into concise and easy-to-read text. By highlighting the key points and important information from the video, you can quickly grasp the main ideas without having to watch the entire video. 
